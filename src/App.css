@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.clicky {
+  height: 150px;
+  width: 150px;
+  font-size: 20px;
+}
+
+.theGrid {
+  position: absolute;
+  top: 80px;
+  left: calc(50% - 450px);
+  max-width: 900px;
+}
